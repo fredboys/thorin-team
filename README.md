@@ -1,1 +1,1 @@
-First project using Flask, CSS, Bootstrap, Jinja, Python and HTML
+Built using Flask, CSS, Bootstrap, Jinja, Python and HTML
